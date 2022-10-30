@@ -3,7 +3,7 @@
 ### Before you begin  
 
 You need to have an AWS account with web console access. Our shared AWS account is:
-<a href="https://964849360084.signin.aws.amazon.com/console" target="_blank">https://964849360084.signin.aws.amazon.com/console </a>. Login with your full mail as username.
+<a href="https://964849360084.signin.aws.amazon.com/console" target="_blank">https://488587609044.signin.aws.amazon.com/console</a>. Login with your full mail as username.
 
 ## TL;DR
 
